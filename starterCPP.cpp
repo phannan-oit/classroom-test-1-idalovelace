@@ -6,6 +6,7 @@ using std::endl;
 int main()
 {
  
+   cout << "pretending to do an inlab" << endl;
    
    return 0;
 }
